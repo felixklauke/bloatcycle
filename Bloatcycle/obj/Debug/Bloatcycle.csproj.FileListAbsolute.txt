@@ -1,0 +1,6 @@
+/Users/fklauke/RiderProjects/Bloatcycle/Bloatcycle/bin/Debug/Bloatcycle.dll
+/Users/fklauke/RiderProjects/Bloatcycle/Bloatcycle/bin/Debug/Bloatcycle.pdb
+/Users/fklauke/RiderProjects/Bloatcycle/Bloatcycle/obj/Debug/Bloatcycle.csprojResolveAssemblyReference.cache
+/Users/fklauke/RiderProjects/Bloatcycle/Bloatcycle/obj/Debug/Bloatcycle.csproj.CoreCompileInputs.cache
+/Users/fklauke/RiderProjects/Bloatcycle/Bloatcycle/obj/Debug/Bloatcycle.dll
+/Users/fklauke/RiderProjects/Bloatcycle/Bloatcycle/obj/Debug/Bloatcycle.pdb
